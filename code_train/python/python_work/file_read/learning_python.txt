@@ -1,0 +1,4 @@
+In Python you can create class.
+In Python you can create function.
+In Python you can use list.
+In Python you can use dictorny.
